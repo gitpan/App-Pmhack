@@ -32,7 +32,7 @@ my %WriteMakefileArgs = (
     'Carp' => '0',
     'English' => '0',
     'File::Copy' => '0',
-    'File::Path' => '0',
+    'File::Path' => '2.07',
     'Module::Load' => '0',
     'Module::Locate' => '0',
     'Params::Util' => '0',
@@ -40,7 +40,7 @@ my %WriteMakefileArgs = (
     'Pod::Usage::CommandLine' => '0',
     'Try::Tiny' => '0'
   },
-  'VERSION' => '0.001',
+  'VERSION' => '0.002',
   'test' => {
     'TESTS' => 't/*.t'
   }

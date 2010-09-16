@@ -1,6 +1,6 @@
 package App::Pmhack;
 BEGIN {
-  $App::Pmhack::VERSION = '0.001';
+  $App::Pmhack::VERSION = '0.002';
 }
 
 # ABSTRACT: Hack on installed Perl modules
